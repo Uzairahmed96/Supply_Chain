@@ -1,0 +1,7 @@
+pandas
+shiny
+shinywidgets
+plotly
+faicons
+pathlib
+
