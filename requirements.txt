@@ -4,4 +4,5 @@ shinywidgets
 plotly
 faicons
 pathlib
+gunicorn
 
